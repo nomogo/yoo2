@@ -56,7 +56,8 @@ nav#nav ul li a {
 
 main#main {
     padding: 20px 0;
-     position:center;
+     position:relative;
+    left: 200px;
     
 }
 
